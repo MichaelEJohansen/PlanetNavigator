@@ -8,3 +8,8 @@ Project that aims to simulate a 'ship' in 2D space with the effects of gravity (
 - Right Arrow: Rotate thrust vector clockwise.
 - Space Bar: Engage thrust.
 - Left Control: Reset the ship.
+
+## UI
+- Blue Bar: Vector describing the current force of gravity on the ship.
+- Green/ Red Bar: Vector describing the current value and direction of thrust. Green means that the ship is not currently thrusting, red means that the ship is thrusting.
+- Black Bar: Vector describing the current direction and magnitude of the ship's velocity.
